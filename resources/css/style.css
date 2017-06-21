@@ -70,7 +70,7 @@ body {
 
 }
 
-.mission{
+#mission{
 	background-image: url("../images/img-mission-background.jpg");
 	height:700px;
 	display: flex;
@@ -86,7 +86,7 @@ body {
 	text-align: center;
 }
 
-.teaofthemonth{
+#teaofthemonth{
 
 	
 	width: 1000px;
@@ -125,7 +125,7 @@ body {
 
 }
 
-.locations {
+#locations {
 
 	width: 1200px;
 	height: 500px;
